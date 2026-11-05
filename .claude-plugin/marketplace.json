@@ -1,0 +1,5 @@
+{
+  "name": "cache-timer",
+  "owner": { "name": "tnsheaven-code" },
+  "plugins": [{ "name": "cache-timer", "source": "./" }]
+}
